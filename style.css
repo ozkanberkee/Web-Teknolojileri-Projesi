@@ -1,0 +1,140 @@
+
+.resimSlider{
+	height:450px;
+	margin:0 auto 0 auto;
+	display:table;
+}
+boddy{
+	padding-top:100px;
+	font-family: 'Raleway', sans-serif;
+	
+	margin:0;
+	
+}
+
+
+.hakkimda{
+	background:#cccccc;
+}
+
+
+@media only screen and (min-width:960px) {
+	.sehrim{width:100px;}
+	
+.ozgecmis {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+	
+}
+
+	
+.sehrim {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+
+	
+.iceriseher {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+.saray {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+.alevkuleleri {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+.kizkulesi {
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+.login{
+	width:auto;
+	height:auto;
+	background:;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:70px;
+	padding:30px;
+}
+.loginn{
+	width:auto;
+	height:auto;
+	background:;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:0px;
+	padding:30px;
+}
+.takimimiz{
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:#0f0f0f;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+.ilgialanlarim{
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:e81a20;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+	
+}
+.iletisim{
+	width:auto;
+	height:auto;
+	background:#cccccc;
+	color:e81a20;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px;
+}
+}
